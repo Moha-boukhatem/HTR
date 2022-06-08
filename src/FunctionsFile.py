@@ -34,38 +34,6 @@ def ExtractData(*FileNames : str) :
     return AllData
 
 
-'''#Resize Function
-def resizeImages(images, img_size : tuple):
-    
-    ResizedImages  = []
-
-    for image in images : 
-        
-        img = Image.open(image)
-        ResizedImage = img.resize(img_size,Image.ANTIALIAS)
-        ResizedImage = np.array(ResizedImage)
-        data = ResizedImage.astype('float32')
-        data /= 255
-        ResizedImages.append(data)
-    
-    return np.array(ResizedImages)
-
-def ConvertToCat(data) :
-    return np.array(pd.get_dummies(data))'''
-
-
-def ReshapeData(*arr):
-
-    AllData = []
-    for data in arr : 
-        data = data.reshape(data.shape[0],-1)
-        data = data.astype('float32')
-        data /= 255
-        AllData.append(data)
-
-    return AllData
-
-
 def resizeImages(image, img_size):
     w, h = img_size
     image = tf.image.resize(image, size=(h, w), preserve_aspect_ratio=True)
