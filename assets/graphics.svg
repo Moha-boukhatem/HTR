@@ -411,7 +411,7 @@
          id="tspan4563-0"
          x="101.29183"
          y="82.168083"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583">LSTM</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">BLSTM</tspan><tspan
          sodipodi:role="line"
          x="101.29183"
          y="86.577805"
