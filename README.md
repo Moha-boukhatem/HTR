@@ -3,12 +3,13 @@
 * **Graduation project for my Master's degree (In progress)**
 
 
-* **Based on CNN & LSTM architecture.**
+* **Based on CNN, BRNN & CTC architectures.**
 * **Implemented with TensorFlow (TF).**
 * **Trained on the IAM off-line HTR dataset.**
 * **The model takes images of single words as input & outputs the recognized text.**
 * **And more..(im not good at writing the README)**
 ----
+<a href="#" target="_blank"> <img src="assets/graphics.svg" alt="tf" width="80%" height="80%"/> </a>
 
 ## **How to use it**
 Clone it 
