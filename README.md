@@ -9,7 +9,7 @@
 * **The model takes images of single words as input & outputs the recognized text.**
 * **And more..(im not good at writing the README)**
 ----
-<a href="#" target="_blank"> <img src="assets/graphics.svg" alt="tf" width="80%" height="80%"/> </a>
+<a href="#" target="_blank"> <img src="assets/arch.png" alt="tf" width="80%" height="80%"/> </a>
 
 ## **How to use it**
 Clone it 
