@@ -63,3 +63,11 @@ All Preprocess Steps will be demonstrated by some animations in the Terminal
 
 
 ## **Training Model**
+
+```
+model.fit (X, Y, Epochs)
+```
+* Y = Training data
+* X = Validation data
+* Epochs = Training iteration
+
