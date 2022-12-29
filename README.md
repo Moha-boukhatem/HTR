@@ -74,8 +74,8 @@ model.fit (X, Y, Epochs)
 
 ## **Testing Model**
 
-<a href="#" target="_blank"> <img src="assets/output1.png" alt="tf" width="80%" height="80%"/> </a>
+<a href="#" target="_blank"> <img src="assets/new_output1.png" alt="tf" width="80%" height="80%"/> </a>
 
 ## **Predictions**
 
-<a href="#" target="_blank"> <img src="assets/output.png" alt="tf" width="80%" height="80%"/> </a>
+<a href="#" target="_blank"> <img src="assets/new_output.png" alt="tf" width="80%" height="80%"/> </a>
