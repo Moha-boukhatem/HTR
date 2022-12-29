@@ -71,3 +71,11 @@ model.fit (X, Y, Epochs)
 * X = Validation data
 * Epochs = Training iteration
 
+
+## **Testing Model**
+
+<a href="#" target="_blank"> <img src="assets/output1.png" alt="tf" width="80%" height="80%"/> </a>
+
+## **Predictions**
+
+<a href="#" target="_blank"> <img src="assets/output.png" alt="tf" width="80%" height="80%"/> </a>
