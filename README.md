@@ -62,7 +62,7 @@ All Preprocess Steps will be demonstrated by some animations in the Terminal
 
 
 
-## **Training Model**
+## **Model Training**
 
 ```
 model.fit (X, Y, Epochs)
@@ -72,7 +72,7 @@ model.fit (X, Y, Epochs)
 * Epochs = Training iteration
 
 
-## **Testing Model**
+## **Model Testing**
 
 <a href="#" target="_blank"> <img src="assets/new_output1.jpg" alt="tf" width="80%" height="80%"/> </a>
 
